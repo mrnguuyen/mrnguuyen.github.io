@@ -1,0 +1,133 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 300px 0 100px;
+  background-image:url(../img/SFPIC.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+.bg-dark
+{
+    background-color: black !important;
+}
+
+body
+{
+    font-family: 'Muli', sans-serif;
+}
+
+h1
+{
+    font-size: 4.5rem;
+}
+
+.navbar-dark .navbar-nav .nav-link
+{
+    color: white;
+}
+
+.ul-class
+{
+    display: flex;
+    position: absolute;
+    left: 38%;
+    transform: translate(-50%, -50%);
+}
+
+.ul-skills
+{
+    display: flex;
+    position: absolute;
+    left: 42.5%;
+    transform: translate(-50%, -50%);
+}
+
+.li-class
+{
+    list-style: none;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 150px;
+    padding-left: 62px;
+}
+
+.li-skills
+{
+    list-style: none;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 150px;
+    padding-left: 62px;
+}
+
+.li-word
+{
+    list-style: none;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 170px;
+    padding-left: 62px;
+}
+
+.li-experience
+{
+    font-size: 19px;
+}
+
+a
+{
+    color: black;
+}
+
+a:hover
+{
+    color: darkgrey;
+    text-decoration: none;
+}
+
+.bg-light
+{
+    background-color:burlywood !important;
+}
+
+.intro-divider
+{
+    width: 400px;
+    border-top: 2px solid white;
+}
+
+.intro-divider-tan
+{
+    width: 100%;
+    border-top: 2px solid burlywood ;
+}
+
+.intro-divider-experience
+{
+    width: 100%;
+    border-top: 2px solid black;
+}
+
+
+
+
+
+
